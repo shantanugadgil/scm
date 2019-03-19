@@ -1,0 +1,2 @@
+# scm
+Simple Config Manager
